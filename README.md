@@ -27,5 +27,4 @@ Unlike standard virtual mouse tutorials, this project is built for **performance
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/ShafikhaTaranum/AI-Virtual-Mouse.git](https://github.com/ShafikhaTaranum/AI-Virtual-Mouse.git)
-cd AI-Virtual-Mouse
+git clone https://github.com/ShafikhaTaranum/AI-Virtual-Mouse.git
